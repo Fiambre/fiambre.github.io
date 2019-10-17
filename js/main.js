@@ -1,5 +1,6 @@
 $(function(){
     $.get("/js/cv.js",function(data){
-        console.log(data);
+        //$("#fiambre-cv").html(data);
+
     });
 });
