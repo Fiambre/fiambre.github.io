@@ -140,6 +140,7 @@ html {
   overflow: hidden;
   position: relative;
   width: 25vw;
+  min-width: 320px;
 }
 
 .c-glitch__img {
