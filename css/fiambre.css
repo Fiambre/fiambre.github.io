@@ -143,6 +143,12 @@ html {
   min-width: 320px;
 }
 
+@media (min-width: 320px) {
+  .c-glitch {
+    min-width: 790px;
+  }
+}
+
 .c-glitch__img {
   background-blend-mode: none;
   background-color: transparent;
